@@ -1,7 +1,7 @@
 {
   "name": "@syno-sy/mantine-rings-progress",
   "version": "1.0.1",
-  "description": "Rings Progress component for Mantine",
+  "description": "Rings Progress component for Mantine UI",
   "packageManager": "yarn@4.0.1",
   "license": "MIT",
   "author": "Giovambattista Fazioli <giovambattista.fazioli@gmail.com>",
