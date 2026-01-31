@@ -43,8 +43,5 @@
     "react": "^18.x || ^19.x",
     "react-dom": "^18.x || ^19.x"
   },
-  "bugs": "https://github.com/syno-sy/mantine-rings-progress/issues",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  }
+  "bugs": "https://github.com/syno-sy/mantine-rings-progress/issues"
 }
