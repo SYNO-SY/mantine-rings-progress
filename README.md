@@ -1,5 +1,7 @@
 # Mantine Rings Progress Component
 
+# This repository was fully created by https://github.com/gfazioli. I am publishing it solely for use in my another script with a minor change.
+
 <img alt="Mantine Rings Progress" src="https://github.com/gfazioli/mantine-rings-progress/blob/master/logo.png" />
 
 <div align="center">
