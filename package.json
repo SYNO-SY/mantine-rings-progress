@@ -35,7 +35,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SYNO-SY/mantine-rings-progress.git"
+    "url": "git+https://github.com/syno-sy/mantine-rings-progress.git"
   },
   "peerDependencies": {
     "@mantine/core": ">=7.0.0",
@@ -43,7 +43,7 @@
     "react": "^18.x || ^19.x",
     "react-dom": "^18.x || ^19.x"
   },
-  "bugs": "https://github.com/SYNO-SY/mantine-rings-progress/issues",
+  "bugs": "https://github.com/syno-sy/mantine-rings-progress/issues",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   }
