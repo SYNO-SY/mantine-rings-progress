@@ -1,6 +1,6 @@
 {
-  "name": "@syno/mantine-rings-progress",
-  "version": "1.0.0",
+  "name": "@sy_dev/mantine-rings-progress",
+  "version": "1.0.1",
   "description": "Rings Progress component for Mantine",
   "packageManager": "yarn@4.0.1",
   "license": "MIT",
